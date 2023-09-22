@@ -1,0 +1,47 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    }
+.main{
+    display: flex;
+    background-color: yellow;
+    margin-top: -50px;
+
+}
+.noodle{
+    height: 300px;
+    padding-top: 100px;
+}
+.head1{
+    color: white;
+    padding-left: 45px;
+}
+.submain{
+    background-color: white;
+    width: 500px;
+    height: 100px;
+    margin-left: 45px;
+    
+    border-radius: 4px;
+}
+.btn{
+    background-color: lightcoral;
+    color: orangered;
+}
+.btn2{
+    background-color: white
+    color: gray;
+}
+
+.p1{
+    padding-left: 45px;
+
+}
+.subdiv1{
+    display: flex;
+    gap: 10px;
+    margin: 20px;
+    margin-top: 50px
+}
+
+
