@@ -1,3 +1,3 @@
 # Practice-UI-2
 
-live  link:https://github.com/MBilalShaikh2003/Practice-UI-2/deployments/github-pages
+live link:https://mbilalshaikh2003.github.io/Practice-UI-2/
