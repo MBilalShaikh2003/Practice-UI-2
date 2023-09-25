@@ -6,6 +6,8 @@
     display: flex;
     background-color: yellow;
     margin-top: -50px;
+    width: 100%;
+    
 
 }
 .noodle{
@@ -18,19 +20,30 @@
 }
 .submain{
     background-color: white;
-    width: 500px;
-    height: 100px;
+    width: 750px;
+    height: 200px;
     margin-left: 45px;
-    
-    border-radius: 4px;
+    border-radius: 10px;
+
 }
-.btn{
-    background-color: lightcoral;
-    color: orangered;
+.btn1{
+    background-color:pink;
+    height: 38px;
+    width: 130px;
+    border-radius: 8px;
+    padding: 10px 20px 10px 20px;
+    color: #F17228;
+    font-size: 14px;
 }
 .btn2{
-    background-color: white
-    color: gray;
+    background-color: white;
+    height: 38px;
+    width: 130px;
+    border-radius: 8px;
+    padding: 10px 2px 10px 24px;
+    color: #757575;
+    font-size: 15px;
+    
 }
 
 .p1{
@@ -40,8 +53,115 @@
 .subdiv1{
     display: flex;
     gap: 10px;
-    margin: 20px;
-    margin-top: 50px
+    padding: 20px;
+    
 }
+.subdiv2{
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 
+}
+.inputfield{
+    width: 75%;
+    height: 40px;
+    border-radius: 8px;
+    background-color: #F5F5F5;
+
+}
+.findBtn{
+width: 20%;
+height: 60px;
+font-size: 15px;
+background-color: #FF7A7A;
+color: white;
+border: 2px solid #FF7A7A;
+border-radius: 8px;
+}
+.txt{
+    margin-top: 5px;
+    color: #424242;
+}
+.btndiv{
+    margin-top: 5px;
+}
+.btn3{
+    color: #F17228;
+    background-color: pink;
+    border: 8px solid pink;
+}
+.card{
+    display: flex;
+    justify-content: space-between;
+    
+    height: 350px;
+    background-color:white;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+.carditem{
+    
+    height: 200px;
+    width: 400px;
+    
+    
+}
+.imgfood{
+    height: 200px;
+    width: 100%;
+}
+.main2{
+    background-color: #FDEDCA;    
+    height: 300px;
+}
+.card2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+    padding-left: 75px;
+    padding-right: 75px;
+    
+}
+.logo{
+    height: 100px;
+}
+.txt2{
+    color: #F17228;
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 30px;
+    
+    
+}
+.txt3{
+    color: black;
+    font-weight: bold;
+}
+.txt4{
+    color: #757575;
+}
+.main3{
+    
+}
+.carrd{
+    display: flex;
+    
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.bbtn{
+    height: 30px;
+    width: 180px;
+    background-color: #F17228;
+    color: white;
+    border-radius: 16px solid #F17228;
+    border: #F17228;
+}
 
