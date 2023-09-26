@@ -219,3 +219,39 @@ border-radius: 8px;
     align-items: center;
     gap: 10px;
 }
+.main5{
+    background-color:   #FEFAF1;
+    height: 300px;
+    
+    
+    margin-top: 50px;
+}
+.rdimg{
+    border-radius: 144px;
+    height: 130px;
+}
+.flexbox{
+    padding-top: 50px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    
+}
+.small{
+    display: flex;
+    justify-content: first baseline;
+    gap: 1000px;
+}
+.btxdiv{
+    display: flex;
+    gap: 10px;
+}
+.btx{
+    border-radius: 144px;
+    height: 40px;
+    width: 40px;
+    background-color: #FFB30E;
+    border: #FFB30E;
+}
